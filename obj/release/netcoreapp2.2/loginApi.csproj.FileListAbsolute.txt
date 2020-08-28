@@ -1,0 +1,70 @@
+D:\Infovative Projects\userApi\loginApi\bin\release\netcoreapp2.2\loginApi.deps.json
+D:\Infovative Projects\userApi\loginApi\bin\release\netcoreapp2.2\loginApi.runtimeconfig.json
+D:\Infovative Projects\userApi\loginApi\bin\release\netcoreapp2.2\loginApi.runtimeconfig.dev.json
+D:\Infovative Projects\userApi\loginApi\bin\release\netcoreapp2.2\loginApi.dll
+D:\Infovative Projects\userApi\loginApi\bin\release\netcoreapp2.2\loginApi.pdb
+D:\Infovative Projects\userApi\loginApi\obj\release\netcoreapp2.2\loginApi.csprojAssemblyReference.cache
+D:\Infovative Projects\userApi\loginApi\obj\release\netcoreapp2.2\loginApi.csproj.CoreCompileInputs.cache
+D:\Infovative Projects\userApi\loginApi\obj\release\netcoreapp2.2\loginApi.RazorAssemblyInfo.cache
+D:\Infovative Projects\userApi\loginApi\obj\release\netcoreapp2.2\loginApi.RazorAssemblyInfo.cs
+D:\Infovative Projects\userApi\loginApi\obj\release\netcoreapp2.2\loginApi.AssemblyInfoInputs.cache
+D:\Infovative Projects\userApi\loginApi\obj\release\netcoreapp2.2\loginApi.AssemblyInfo.cs
+D:\Infovative Projects\userApi\loginApi\obj\release\netcoreapp2.2\loginApi.RazorTargetAssemblyInfo.cache
+D:\Infovative Projects\userApi\loginApi\obj\release\netcoreapp2.2\loginApi.dll
+D:\Infovative Projects\userApi\loginApi\obj\release\netcoreapp2.2\loginApi.pdb
+I:\VU Projects\ERP_APIs\Survey_KaroNo_API\loginApi\bin\Release\netcoreapp2.2\loginApi.deps.json
+I:\VU Projects\ERP_APIs\Survey_KaroNo_API\loginApi\bin\Release\netcoreapp2.2\loginApi.runtimeconfig.json
+I:\VU Projects\ERP_APIs\Survey_KaroNo_API\loginApi\bin\Release\netcoreapp2.2\loginApi.runtimeconfig.dev.json
+I:\VU Projects\ERP_APIs\Survey_KaroNo_API\loginApi\bin\Release\netcoreapp2.2\loginApi.dll
+I:\VU Projects\ERP_APIs\Survey_KaroNo_API\loginApi\bin\Release\netcoreapp2.2\loginApi.pdb
+I:\VU Projects\ERP_APIs\Survey_KaroNo_API\loginApi\obj\Release\netcoreapp2.2\loginApi.csprojAssemblyReference.cache
+I:\VU Projects\ERP_APIs\Survey_KaroNo_API\loginApi\obj\Release\netcoreapp2.2\loginApi.csproj.CoreCompileInputs.cache
+I:\VU Projects\ERP_APIs\Survey_KaroNo_API\loginApi\obj\Release\netcoreapp2.2\loginApi.RazorAssemblyInfo.cache
+I:\VU Projects\ERP_APIs\Survey_KaroNo_API\loginApi\obj\Release\netcoreapp2.2\loginApi.RazorAssemblyInfo.cs
+I:\VU Projects\ERP_APIs\Survey_KaroNo_API\loginApi\obj\Release\netcoreapp2.2\loginApi.AssemblyInfoInputs.cache
+I:\VU Projects\ERP_APIs\Survey_KaroNo_API\loginApi\obj\Release\netcoreapp2.2\loginApi.AssemblyInfo.cs
+I:\VU Projects\ERP_APIs\Survey_KaroNo_API\loginApi\obj\Release\netcoreapp2.2\loginApi.RazorTargetAssemblyInfo.cache
+I:\VU Projects\ERP_APIs\Survey_KaroNo_API\loginApi\obj\Release\netcoreapp2.2\loginApi.dll
+I:\VU Projects\ERP_APIs\Survey_KaroNo_API\loginApi\obj\Release\netcoreapp2.2\loginApi.pdb
+I:\VU Projects\ERP_APIs\far_api\loginapi\bin\Release\netcoreapp2.2\loginApi.deps.json
+I:\VU Projects\ERP_APIs\far_api\loginapi\bin\Release\netcoreapp2.2\loginApi.runtimeconfig.json
+I:\VU Projects\ERP_APIs\far_api\loginapi\bin\Release\netcoreapp2.2\loginApi.runtimeconfig.dev.json
+I:\VU Projects\ERP_APIs\far_api\loginapi\bin\Release\netcoreapp2.2\loginApi.dll
+I:\VU Projects\ERP_APIs\far_api\loginapi\bin\Release\netcoreapp2.2\loginApi.pdb
+I:\VU Projects\ERP_APIs\far_api\loginapi\obj\Release\netcoreapp2.2\loginApi.csprojAssemblyReference.cache
+I:\VU Projects\ERP_APIs\far_api\loginapi\obj\Release\netcoreapp2.2\loginApi.csproj.CoreCompileInputs.cache
+I:\VU Projects\ERP_APIs\far_api\loginapi\obj\Release\netcoreapp2.2\loginApi.RazorAssemblyInfo.cache
+I:\VU Projects\ERP_APIs\far_api\loginapi\obj\Release\netcoreapp2.2\loginApi.RazorAssemblyInfo.cs
+I:\VU Projects\ERP_APIs\far_api\loginapi\obj\Release\netcoreapp2.2\loginApi.AssemblyInfoInputs.cache
+I:\VU Projects\ERP_APIs\far_api\loginapi\obj\Release\netcoreapp2.2\loginApi.AssemblyInfo.cs
+I:\VU Projects\ERP_APIs\far_api\loginapi\obj\Release\netcoreapp2.2\loginApi.RazorTargetAssemblyInfo.cache
+I:\VU Projects\ERP_APIs\far_api\loginapi\obj\Release\netcoreapp2.2\loginApi.dll
+I:\VU Projects\ERP_APIs\far_api\loginapi\obj\Release\netcoreapp2.2\loginApi.pdb
+I:\VU Projects\ERP_APIs\FA_API_Github\loginApi\bin\Release\netcoreapp2.2\loginApi.deps.json
+I:\VU Projects\ERP_APIs\FA_API_Github\loginApi\bin\Release\netcoreapp2.2\loginApi.runtimeconfig.json
+I:\VU Projects\ERP_APIs\FA_API_Github\loginApi\bin\Release\netcoreapp2.2\loginApi.runtimeconfig.dev.json
+I:\VU Projects\ERP_APIs\FA_API_Github\loginApi\bin\Release\netcoreapp2.2\loginApi.dll
+I:\VU Projects\ERP_APIs\FA_API_Github\loginApi\bin\Release\netcoreapp2.2\loginApi.pdb
+I:\VU Projects\ERP_APIs\FA_API_Github\loginApi\obj\Release\netcoreapp2.2\loginApi.csprojAssemblyReference.cache
+I:\VU Projects\ERP_APIs\FA_API_Github\loginApi\obj\Release\netcoreapp2.2\loginApi.csproj.CoreCompileInputs.cache
+I:\VU Projects\ERP_APIs\FA_API_Github\loginApi\obj\Release\netcoreapp2.2\loginApi.RazorAssemblyInfo.cache
+I:\VU Projects\ERP_APIs\FA_API_Github\loginApi\obj\Release\netcoreapp2.2\loginApi.RazorAssemblyInfo.cs
+I:\VU Projects\ERP_APIs\FA_API_Github\loginApi\obj\Release\netcoreapp2.2\loginApi.AssemblyInfoInputs.cache
+I:\VU Projects\ERP_APIs\FA_API_Github\loginApi\obj\Release\netcoreapp2.2\loginApi.AssemblyInfo.cs
+I:\VU Projects\ERP_APIs\FA_API_Github\loginApi\obj\Release\netcoreapp2.2\loginApi.RazorTargetAssemblyInfo.cache
+I:\VU Projects\ERP_APIs\FA_API_Github\loginApi\obj\Release\netcoreapp2.2\loginApi.dll
+I:\VU Projects\ERP_APIs\FA_API_Github\loginApi\obj\Release\netcoreapp2.2\loginApi.pdb
+D:\Flutter App\FAR Login Api\loginApi\bin\Release\netcoreapp2.2\loginApi.deps.json
+D:\Flutter App\FAR Login Api\loginApi\bin\Release\netcoreapp2.2\loginApi.runtimeconfig.json
+D:\Flutter App\FAR Login Api\loginApi\bin\Release\netcoreapp2.2\loginApi.runtimeconfig.dev.json
+D:\Flutter App\FAR Login Api\loginApi\bin\Release\netcoreapp2.2\loginApi.dll
+D:\Flutter App\FAR Login Api\loginApi\bin\Release\netcoreapp2.2\loginApi.pdb
+D:\Flutter App\FAR Login Api\loginApi\obj\Release\netcoreapp2.2\loginApi.csprojAssemblyReference.cache
+D:\Flutter App\FAR Login Api\loginApi\obj\Release\netcoreapp2.2\loginApi.csproj.CoreCompileInputs.cache
+D:\Flutter App\FAR Login Api\loginApi\obj\Release\netcoreapp2.2\loginApi.RazorAssemblyInfo.cache
+D:\Flutter App\FAR Login Api\loginApi\obj\Release\netcoreapp2.2\loginApi.RazorAssemblyInfo.cs
+D:\Flutter App\FAR Login Api\loginApi\obj\Release\netcoreapp2.2\loginApi.AssemblyInfoInputs.cache
+D:\Flutter App\FAR Login Api\loginApi\obj\Release\netcoreapp2.2\loginApi.AssemblyInfo.cs
+D:\Flutter App\FAR Login Api\loginApi\obj\Release\netcoreapp2.2\loginApi.RazorTargetAssemblyInfo.cache
+D:\Flutter App\FAR Login Api\loginApi\obj\Release\netcoreapp2.2\loginApi.dll
+D:\Flutter App\FAR Login Api\loginApi\obj\Release\netcoreapp2.2\loginApi.pdb
